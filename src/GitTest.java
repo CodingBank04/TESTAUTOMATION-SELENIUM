@@ -4,6 +4,7 @@ public class GitTest {
         System.out.println("first step");
         System.out.pringln("6 step");
         System.out.println("7th commit");
+        System.out.println("todays latest commit")
 
     }
 }
