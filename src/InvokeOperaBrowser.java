@@ -6,7 +6,8 @@ public class InvokeOperaBrowser {
     public static void main(String[] args) {
         System.setProperty("webdriver.opera.driver", "/Users/vahit.peker/Desktop/operadriver");
         WebDriver myDriver=new OperaDriver();
-        myDriver.get("http://www.google.com");
+        myDriver.get("http://www.amazon.com");
+
 
     }
 
